@@ -1,7 +1,7 @@
 "use client";
 
 import OnePage from "@/components/OnePage";
-import { chapterFour, chapterThree } from "@/data/data";
+import { chapterFour } from "@/data/data";
 import Image from "next/image";
 
 import { Swiper, SwiperSlide } from 'swiper/react';

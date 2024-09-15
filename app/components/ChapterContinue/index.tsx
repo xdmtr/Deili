@@ -1,7 +1,6 @@
 "use client";
 
 import OnePage from "@/components/OnePage";
-import Image from "next/image";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
